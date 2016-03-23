@@ -2,6 +2,9 @@
 # Contributor: Andy Weidenbaum <archbaum@gmail.com>
 # Source: https://github.com/zancarius/archlinux-pkgbuilds
 
+#ALARM: Abzie <the.mrabz@gmail.com>
+#	- Added patch to fix UNICODE errors
+
 pkgname=python2-gevent-socketio
 pkgver=0.3.6
 pkgrel=2
